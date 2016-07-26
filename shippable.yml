@@ -11,7 +11,7 @@ php:
 build:
   ci:
     - php --version
-    - thy
+    - sleep 9m
 
 integrations:
   #hub:
