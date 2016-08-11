@@ -11,4 +11,6 @@ php:
 build:
   ci:
     - php --version
+  
+  cache: true
     
